@@ -68,8 +68,11 @@ function generateMarkdown(data) {
   ${data.tests}
 
   ## [Questions](#table-of-contents)
-  ${data.githubusername}
-  ${data.email}
+  * Github: [${data.githubusername}](https://github.com/${data.githubusername})
+
+  Get in contact with me Directly within linkden or my personal email:
+
+  * Email: [${data.email}](mailto:${data.email})
 `;
 }
 
