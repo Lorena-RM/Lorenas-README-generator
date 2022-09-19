@@ -27,7 +27,12 @@ function renderLicenseLink(license) {
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
-  if (license !== "None") return "## License";
+  if (license !== "None") return "## [License](table-of-contents)";
+  else return "";
+}
+
+function renderLicenseSectionInfo (license) {
+  if (license !== "None") return "### My project is under the following Licenses:";
   else return "";
 }
 // TODO: Create a function to generate markdown for README
@@ -50,6 +55,7 @@ function generateMarkdown(data) {
   * [Questions](#questions)
   
   ${renderLicenseSection(data.license)}
+  ${renderLicenseSectionInfo(data.license)}
   ${renderLicenseBadge(data.license)}
   
   ## [Description](#table-of-contents)
@@ -68,6 +74,8 @@ function generateMarkdown(data) {
   ${data.tests}
 
   ## [Questions](#table-of-contents)
+  Take a look at some other work ive done on my repos from my Github:
+  
   * Github: [${data.githubusername}](https://github.com/${data.githubusername})
 
   Get in contact with me Directly within linkden or my personal email:

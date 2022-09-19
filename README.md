@@ -16,7 +16,7 @@
 This application is to to be able to build your very own README.md at the expense of only a few questions. this application builds a Professional _README.MD_ file that you can use for your own project. [A README file contains essential information about the repo's project. Thus, the quality of a README file can differentiate a high-quality repo from a low-quality one](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) and by using this application, you can easily create a high quality README with all the essential information needed.
 
 ## [Installation](#table-of-contents)
-This application requires that you install the node packages required before able to use this application. 
+This application requires that you install the node packages required before being able to use this application. 
 
 to install these packages, run 
 ```md
