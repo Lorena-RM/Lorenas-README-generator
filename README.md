@@ -1,14 +1,14 @@
 # Lorenas-README-generator
 ## Table of Contents
-* [Description](#Description)
+* [Description](#description)
 
-* [Installation](#Installation)
+* [Installation](#installation)
 
-* [Usage](#Usage)
+* [Usage](#usage)
 
 * [Contributing](#contributing)
 
-* [Test](#Test)
+* [Tests](#tests)
 
 * [Questions](#questions)
 
@@ -34,7 +34,7 @@ this README generator is a simple apptlication that allows for a successful crea
 
 - starter code (DU coding bootcamp)
 
-## [Test](#table-of-contents)
+## [Tests](#table-of-contents)
 > **Note:** the videos below is an **example only!** this is being used as a test for users to see how using the README applications creates a high quality README for your own personal projects.
 
 ## [Questions](#table-of-contents)
