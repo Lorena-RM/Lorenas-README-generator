@@ -23,7 +23,11 @@ to install these packages, run
 $ npm install
 ```
 on the terminal corresponding to folder the repo was copied into.
- once this has been completed read the the Usage section for more intructions and information.
+once this has been completed read the the Usage section for more intructions and information.
+
+![Readme.md genrator GIF][gif]
+
+[gif]: ./assets/npm-i-gif.gif "Screen Recording of website"
 
 ## [Usage](#table-of-contents)
 [A README file acts like a virtual storefront to a repository.](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
