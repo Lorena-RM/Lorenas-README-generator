@@ -50,7 +50,15 @@ Below is a brief example:
 - starter code (DU coding bootcamp)
 
 ## [Tests](#table-of-contents)
-> **Note:** the videos below is an **example only!** this is being used as a test for users to see how using the README applications creates a high quality README for your own personal projects.
+> **Note:** the screenshots below is an **example only!** this is being used as a test for users to see how using the README applications creates a high quality README for your own personal projects.
+
+This demonstartes the questions needed to answer to create a REAME file 
+
+![gif example](./assets/Screen%20Shot%202022-09-18%20at%209.55.22%20PM.png)
+
+This Demonstrates what the file preview would look like one terminal questions have been answered
+
+![gif example](./assets/Screen%20Shot%202022-09-18%20at%2010.27.45%20PM.png)
 
 ## [Questions](#table-of-contents)
 
