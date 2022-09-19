@@ -33,6 +33,17 @@ once this has been completed read the the Usage section for more intructions and
 [A README file acts like a virtual storefront to a repository.](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 this README generator is a simple apptlication that allows for a successful creation of a readme without the stress the comes with creating one. this video below demontrates the usage for this application.
 
+---
+
+to start application, run 
+```md
+$ node index.js
+```
+Below is a brief example:
+
+
+![gif example](./assets/example-gif.gif)
+
 ## [Contributing](#table-of-contents)
 - Lorena Rivas Morales (DU coding bootcamp student)
 
